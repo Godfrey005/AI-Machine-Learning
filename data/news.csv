@@ -3,7 +3,7 @@ from sklearn.model_selection import train_test_split
 
 def load_and_prepare_data(filepath):
     # Load the dataset
-    df = pd.read_csv(filepath)
+    df = pd.read_csv("../data/news.csv")
     print(f"Loaded dataset with {len(df)} rows.")
 
     # Basic cleaning: remove rows with missing values
