@@ -20,3 +20,7 @@ This project aims to design and implement a machine learning model to detect fak
 
 ## License
 This project is licensed under the MIT License.
+
+## Update Log
+- Project setup completed on 2025-10-01.
+- Thank You
